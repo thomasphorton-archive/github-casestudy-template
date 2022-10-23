@@ -1,0 +1,3 @@
+# Template Repository
+
+Have fun!
